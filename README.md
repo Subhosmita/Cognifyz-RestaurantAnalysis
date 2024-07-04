@@ -8,5 +8,5 @@ My role is to conduct a set of analysis over the given dataset using Python.
 
 # Steps to run the project
 1. Install pip
-2. ```console $ pip install -r ./requirements.txt```
+2. ```pip install -r ./requirements.txt```
 3. Execute python files / Jupyter executables
